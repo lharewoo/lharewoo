@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lharewoo
-- 👀 I’m interested in AI learning modules
-- 🌱 I’m currently learning massive parallelization
+- 👀 I’m interested in AI/ML techniques
+- 🌱 I’m currently learning transformer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...send a message HERE
 - 😄 Pronouns: ...
